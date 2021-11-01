@@ -7,7 +7,7 @@ pipeline {
       }
     }
 
-    stage('') {
+    stage('Buzz-Again-Stage') {
       steps {
         echo 'Buzz Again'
       }
